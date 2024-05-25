@@ -2,15 +2,14 @@
 This project performs sentiment analysis on the IMDb movie reviews dataset using different machine learning models and feature extraction techniques. The goal is to classify movie reviews as either positive or negative.
 
 ## Table of Contents
-- Dataset
-- Data Preprocessing
-- Feature Extraction
-- Model Training and Evaluation
-- Results
-- Visualizations
-- Requirements
-- Usage
-
+1. [Dataset](#dataset)
+2. [Data Preprocessing](#data-preprocessing)
+3. [Feature Extraction](#feature-extraction)
+4. [Model Training and Evaluation](#model-training-and-evaluation)
+5. [Results](#results)
+6. [Visualizations](#visualizations)
+7. [Requirements](#requirements)
+8. [Usage](#usage)
 ## Dataset
 The dataset used is the IMDb movie reviews dataset from the NLTK corpus. It consists of 2000 movie reviews, evenly split between positive and negative sentiments.
 
